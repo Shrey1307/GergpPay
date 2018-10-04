@@ -1,0 +1,1 @@
+web: gunicorn GergoPay.wsgi --log-file -

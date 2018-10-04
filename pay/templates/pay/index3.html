@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>FC-python wrapper</title>
+  {% load static %} 
+   <script type="text/javascript" src="{% static "FusionCharts/js/fusioncharts.js" %}"></script>
+   <script type="text/javascript" src="{% static "FusionCharts/js/themes/fusioncharts.theme.fint.js" %}"></script>
+</head>
+<body>
+    <div id="myFirstchart-container">{{ output|safe }}</div>
+</body>
+
+</html>
+
