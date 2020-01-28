@@ -78,7 +78,7 @@ sorl-thumbnail==12.4.1
 subprocess32==3.5.2
 tabulate==0.7.5
 tensorboard==1.11.0
-tensorflow==1.11.0
+tensorflow==1.15.2
 termcolor==1.1.0
 texttable==0.9.1
 unicorn==1.0.1
